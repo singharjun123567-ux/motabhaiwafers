@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mota Bhai Wafers</title>
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#fff7cc;
+text-align:center;
+}
+
+header{
+background:#1e8b4d;
+color:white;
+padding:25px;
+font-size:35px;
+font-weight:bold;
+}
+
+.tag{
+font-size:18px;
+}
+
+.product{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px #ccc;
+}
+
+img{
+width:200px;
+}
+
+button{
+background:#25D366;
+color:white;
+border:none;
+padding:12px 20px;
+font-size:18px;
+border-radius:6px;
+}
+
+footer{
+background:#333;
+color:white;
+padding:15px;
+margin-top:30px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+MOTA BHAI WAFERS
+<div class="tag">Fresh & Crispy Banana & Potato Chips</div>
+</header>
+
+<div class="product">
+<h2>Banana Chips</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Banana_chips.jpg">
+
+<p>100g – ₹50</p>
+<p>250g – ₹90</p>
+<p>500 – ₹170</p>
+
+<a href="https://wa.me/917002160394">
+<button>Order on WhatsApp</button>
+</a>
+
+</div>
+
+<div class="product">
+
+<h2>Potato Chips</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Potato-Chips.jpg">
+
+<p><100g – ₹50</p>
+<p>250g – ₹90</p>
+<p>500 – ₹160</p>
+
+<a href="https://wa.me/917002160394">
+<button>Order on WhatsApp</button>
+</a>
+
+</div>
+
+<footer>
+
+<p>📞 Contact: 7002160394</p>
+<p>Mota Bhai Wafers</p>
+
+</footer>
+
+</body>
+</html>
